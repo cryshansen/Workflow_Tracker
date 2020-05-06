@@ -1,0 +1,18 @@
+<?
+require_once("conn_function.php");
+
+class projectClass{
+
+	//constructor
+	function projectClass()
+	{}
+	function getProjects()
+	{
+		$sql = " Select * from projectTable";
+		$result = getconn($sql);
+		return $result;
+
+	}
+	
+}
+?>
