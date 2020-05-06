@@ -1,0 +1,30 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+<link type="text/css" rel="stylesheet" href="../css/styles.css" />
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>blueBug Project Tracker System</title>
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+<div class="main">
+<div class="header">
+
+</div>
+	<!-- TemplateBeginEditable name="content_main" -->
+	<ul class="headernav">
+      <li> HOME </li>
+      <li> HOME </li>
+      <li> HOME </li>
+      <li> HOME </li>
+    </ul>
+	<p style="text-align:center">Welcome to the blueBug Tracking System.</p>
+	<div class="mainleft"> </div>
+	<div class="mainright"> </div>
+	<!-- TemplateEndEditable --></div>
+</body>
+</html>
